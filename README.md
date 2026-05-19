@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ryohei Nakao
 
-<!--
-**ryohei-1051/ryohei-1051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Administrator focused on Windows/Linux infrastructure, automation, networking, and security operations.
 
-Here are some ideas to get you started:
+I use this GitHub to document hands-on labs, troubleshooting workflows, and infrastructure projects related to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Windows Server / Active Directory / PowerShell automation
+- Linux administration and logging
+- Enterprise networking: OSPF, BGP, DMVPN, VLANs, STP, EtherChannel
+- Firewall and security operations: Palo Alto, Fortinet concepts
+- Containers and platform fundamentals: Docker, Kubernetes
+- Cloud infrastructure: Azure and AWS labs
+
+## Featured Projects
+
+### PowerShell Portfolio Lab
+CSV-driven Active Directory automation, user lifecycle tasks, reporting, and service health checks.
+
+### ENARSI Portfolio Lab
+Advanced routing lab covering OSPF, BGP, DMVPN, redistribution, failure scenarios, and incident runbooks.
+
+### Palo Alto NGFW Engineer Lab
+Firewall-focused lab covering HA design, interface/security zones, NAT, security policy, and operational validation.
+
+### Docker / Kubernetes Labs
+Container and orchestration fundamentals with practical deployment, troubleshooting, and documentation evidence.
+
+## Career Focus
+
+I am targeting Systems Administrator / Infrastructure / Network-Security support roles where I can apply production operations experience, structured troubleshooting, and automation.
