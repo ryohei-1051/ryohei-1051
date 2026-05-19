@@ -14,16 +14,22 @@ I use this GitHub to document hands-on labs, troubleshooting workflows, and infr
 ## Featured Projects
 
 ### PowerShell Portfolio Lab
-CSV-driven Active Directory automation, user lifecycle tasks, reporting, and service health checks.
+CSV-driven Active Directory automation, user lifecycle tasks, Windows service health checks, reporting, and safe validation with -WhatIf.
 
 ### ENARSI Portfolio Lab
 Advanced routing lab covering OSPF, BGP, DMVPN, redistribution, failure scenarios, and incident runbooks.
 
 ### Palo Alto NGFW Engineer Lab
-Firewall-focused lab covering HA design, interface/security zones, NAT, security policy, and operational validation.
+Firewall-focused lab covering HA design, interface/security zones, NAT, security policy, logging, and operational validation.
 
-### Docker / Kubernetes Labs
-Container and orchestration fundamentals with practical deployment, troubleshooting, and documentation evidence.
+### Azure Portfolio Lab
+Cloud infrastructure lab covering identity, governance, virtual networking, storage, compute, migration planning, and operational validation.
+
+### Docker Portfolio Lab
+Container fundamentals covering images, containers, Docker Compose, application deployment, and troubleshooting.
+
+### Kubernetes Portfolio Lab
+Kubernetes lab built on Ubuntu with MicroK8s, covering cluster setup, dashboard access, deployments, services, scaling, updates, and troubleshooting.
 
 ## Career Focus
 
